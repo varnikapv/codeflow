@@ -2,8 +2,6 @@
 
 A modern, responsive landing page for an AI-powered code editor built with React, Vite, and Tailwind CSS.
 
-![CodeFlow Banner](public/logo.png)
-
 ## ✨ Features
 
 - **Modern UI/UX** - Clean, gradient-rich design with glassmorphism effects
